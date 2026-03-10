@@ -1,9 +1,21 @@
 {
-  "privateChatMessages": [],
+  "privateChatMessages": [
+    {
+      "type": "text",
+      "text": "啊",
+      "time": "1:55:38",
+      "timestamp": 1773165338019,
+      "date": "2026年3月11日",
+      "isSelf": true,
+      "quote": null,
+      "id": "1773165338019yyrvj2ph4",
+      "withdrawn": false
+    }
+  ],
   "userAvatar": "",
   "otherAvatar": "",
-  "userNickname": "我",
-  "otherNickname": "对方",
+  "userNickname": "æ",
+  "otherNickname": "å¯¹æ¹",
   "userStatus": "online",
   "otherStatus": "online",
   "textReplies": [],
