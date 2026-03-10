@@ -1,15 +1,29 @@
 {
-  "privateChatMessages": [
-    {
-      "type": "text",
-      "text": "没错",
-      "time": "1:56:21",
-      "timestamp": 1773165381184,
-      "date": "2026年3月11日",
-      "isSelf": false,
-      "quote": null,
-      "id": "17731653811848z8489ozp",
-      "withdrawn": false
-    }
-  ]
+  "privateChatMessages": [],
+  "userAvatar": "",
+  "otherAvatar": "",
+  "userNickname": "我",
+  "otherNickname": "对方",
+  "userStatus": "online",
+  "otherStatus": "online",
+  "textReplies": [],
+  "emojiReplies": [],
+  "stickers": [],
+  "callImage": "",
+  "musicList": [],
+  "currentMusicIndex": "-1",
+  "textReplyProbability": "70",
+  "emojiReplyProbability": "30",
+  "quoteReplyProbability": "20",
+  "replyCountFrequency": "medium",
+  "avatarShape": "circle",
+  "bubbleStyle": "rounded",
+  "readStyle": "text",
+  "fontSize": "16",
+  "darkTheme": "false",
+  "customBackgroundImage": "",
+  "tarotMode": "false",
+  "currentPassMessage": "",
+  "lastPassSubmit": "",
+  "todayPassHistory": []
 }
