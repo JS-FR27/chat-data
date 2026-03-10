@@ -1,3 +1,20 @@
 {
-  "test": "hello"
+  "privateChatMessages": [],
+  "userNickname": "我",
+  "otherNickname": "对方",
+  "userAvatar": "",
+  "otherAvatar": "",
+  "userStatus": "online",
+  "otherStatus": "online",
+  "textReplies": [
+    "亲亲",
+    "贴贴",
+    "抱抱"
+  ],
+  "emojiReplies": [
+    "😊",
+    "❤️",
+    "🥰"
+  ],
+  "stickers": []
 }
