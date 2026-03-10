@@ -2,20 +2,31 @@
   "privateChatMessages": [
     {
       "type": "text",
-      "text": "啊",
+      "text": "å",
       "time": "1:55:38",
       "timestamp": 1773165338019,
-      "date": "2026年3月11日",
+      "date": "2026å¹´3æ11æ¥",
       "isSelf": true,
       "quote": null,
       "id": "1773165338019yyrvj2ph4",
+      "withdrawn": false
+    },
+    {
+      "type": "text",
+      "text": "👍",
+      "time": "1:55:47",
+      "timestamp": 1773165347352,
+      "date": "2026年3月11日",
+      "isSelf": false,
+      "quote": null,
+      "id": "177316534735284gv5wv7p",
       "withdrawn": false
     }
   ],
   "userAvatar": "",
   "otherAvatar": "",
-  "userNickname": "æ",
-  "otherNickname": "å¯¹æ¹",
+  "userNickname": "Ã¦ÂÂ",
+  "otherNickname": "Ã¥Â¯Â¹Ã¦ÂÂ¹",
   "userStatus": "online",
   "otherStatus": "online",
   "textReplies": [],
