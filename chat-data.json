@@ -1,20 +1,37 @@
 {
   "privateChatMessages": [],
-  "userNickname": "我",
-  "otherNickname": "对方",
   "userAvatar": "",
   "otherAvatar": "",
+  "userNickname": "æ",
+  "otherNickname": "å¯¹æ¹",
   "userStatus": "online",
   "otherStatus": "online",
   "textReplies": [
-    "亲亲",
-    "贴贴",
-    "抱抱"
+    "äº²äº²",
+    "è´´è´´",
+    "æ±æ±"
   ],
   "emojiReplies": [
-    "😊",
-    "❤️",
-    "🥰"
+    "ð",
+    "â¤ï¸",
+    "ð¥°"
   ],
-  "stickers": []
+  "stickers": [],
+  "callImage": "",
+  "musicList": [],
+  "currentMusicIndex": "-1",
+  "textReplyProbability": "70",
+  "emojiReplyProbability": "30",
+  "quoteReplyProbability": "20",
+  "replyCountFrequency": "medium",
+  "avatarShape": "circle",
+  "bubbleStyle": "rounded",
+  "readStyle": "text",
+  "fontSize": "16",
+  "darkTheme": "false",
+  "customBackgroundImage": "",
+  "tarotMode": "false",
+  "currentPassMessage": "",
+  "lastPassSubmit": "",
+  "todayPassHistory": []
 }
